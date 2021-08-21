@@ -5,6 +5,11 @@
   "repository": "git@github.com:thejellyfish/graphql-date.git",
   "author": "thejellyfish <the@jellyfish-commuting.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo test",
+    "coverage": "echo codecoverage"
+  },
+  "dependencies": {},
   "peerDependencies": {
     "graphql": "*"
   },
