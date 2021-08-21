@@ -6,7 +6,7 @@
   "author": "thejellyfish <the@jellyfish-commuting.com>",
   "license": "MIT",
   "peerDependencies": {
-    "graphql": "^15.5.1"
+    "graphql": "*"
   },
   "devDependencies": {
     "graphql": "^15.5.1"
