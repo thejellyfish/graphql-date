@@ -1,0 +1,15 @@
+{
+  "name": "graphql-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thejellyfish/graphql-date.git",
+  "author": "thejellyfish <the@jellyfish-commuting.com>",
+  "license": "Private",
+  "private": true,
+  "peerDependencies": {
+    "graphql": "^15.5.1"
+  },
+  "devDependencies": {
+    "graphql": "^15.5.1"
+  }
+}

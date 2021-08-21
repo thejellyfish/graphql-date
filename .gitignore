@@ -1,0 +1,8 @@
+node_modules/*
+public/dist/*
+coverage/*
+composer.lock
+package-lock.json
+yarn.lock
+logs/*
+*.log
