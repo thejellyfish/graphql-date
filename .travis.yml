@@ -12,7 +12,6 @@ install:
 
 script:
 - yarn test
-- yarn coverage
 
 before_deploy:
 - yarn version --new-version $TRAVIS_TAG
