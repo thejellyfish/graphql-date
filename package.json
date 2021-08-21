@@ -4,8 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:thejellyfish/graphql-date.git",
   "author": "thejellyfish <the@jellyfish-commuting.com>",
-  "license": "Private",
-  "private": true,
+  "license": "MIT",
   "peerDependencies": {
     "graphql": "^15.5.1"
   },
